@@ -11,13 +11,13 @@ public class ReOrderLinkedList {
         ListNode six = here.new ListNode(6);
         ListNode seven = here.new ListNode(7);
         ListNode eight = here.new ListNode(8);
-//        one.next = two;
-//        two.next = three;
-//        three.next = four;
-//        four.next = five;
-//        five.next = six;
-//        six.next = seven;
-//        seven.next = eight;
+        one.next = two;
+        two.next = three;
+        three.next = four;
+        four.next = five;
+        five.next = six;
+        six.next = seven;
+        seven.next = eight;
 
         ListNode node  = here.reorder(one);
         while (node != null) {
@@ -36,6 +36,72 @@ public class ReOrderLinkedList {
             next = null;
         }
     }
+
+//    public ListNode reorder(ListNode head) {
+//        // Write your solution here
+//        ListNode mid = midPoint(head);
+//        ListNode tail = reverse(mid.next);
+//        ListNode node  = head;
+//        mid.next = null;
+//        while (node != null) {
+//            System.out.print(node.value + ", ");
+//            node = node.next;
+//        }
+//        System.out.println();
+//        ListNode node0  = tail;
+//        while (node0 != null) {
+//            System.out.print(node0.value + ", ");
+//            node0 = node0.next;
+//        }
+//        System.out.println();
+//        System.out.println(tail.value);
+//        System.out.println(mid.value);
+//        System.out.println(head.value);
+//        mid.next = null;
+//        return merge(head,tail);
+//    }
+//
+//    private ListNode midPoint(ListNode head){
+//        ListNode slow = head;
+//        ListNode quick = head;
+//
+//        while(quick.next != null && quick.next.next != null){
+//            slow = slow.next;
+//            quick = quick.next.next;
+//        }
+//        return slow;
+//
+//    }
+//
+//    private ListNode reverse(ListNode cur){
+//        ListNode pre = null;
+//        while(cur != null){
+//            ListNode next = cur.next;
+//            cur.next = pre;
+//            pre = cur;
+//            cur = next;
+//        }
+//        return pre;
+//    }
+//
+//    private ListNode merge(ListNode head, ListNode tail){
+//        ListNode dummy = new ListNode(0);
+//        ListNode cur = dummy;
+//
+//        while(head != null && tail != null){
+//            cur.next = head;
+//            head = head.next;
+//            cur.next.next = tail;
+//            tail = tail.next;
+//            cur = cur.next.next;
+//        }
+//        if(head != null){
+//            cur.next = head;
+//        }
+//        return dummy.next;
+//    }
+
+
 
     public ListNode reorder(ListNode head) {
         if (head == null || head.next == null || head.next.next == null) {

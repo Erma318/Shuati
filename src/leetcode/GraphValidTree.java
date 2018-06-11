@@ -36,6 +36,7 @@ public class GraphValidTree {
 
             for (int i = 0; i < adjList.get(u).size(); i++) {
                 int v = adjList.get(u).get(i);
+                //use parent != v to avoid the suplicate becasue of the Adjacency list
                 if ((visited[v] && parent != v) || (!visited[v] && hasCycle(adjList, v, visited, u)))
                     return true;
             }
