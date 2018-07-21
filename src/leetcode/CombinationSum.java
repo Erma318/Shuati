@@ -14,7 +14,7 @@ public class CombinationSum {
     private void helper(int[] candidates, int index, int sum, List<Integer> temp, int target, List<List<Integer>> res) {
         if (index == candidates.length) {
             if (sum == target) {
-                res.add(copyList(temp));
+                res.add(new ArrayList<>(temp));
             }
             return;
         }
@@ -33,8 +33,12 @@ public class CombinationSum {
     }
     public static void main(String[] args) {
         CombinationSum here = new CombinationSum();
-        int[] candidates = {6, 7};
+        int[] candidates = {2,3,4,6, 7};
         int target = 7;
         System.out.println(here.combinationSum(candidates, target));
+        List<Integer> test = new ArrayList<>();
+        test.add(1);
+        System.out.println(test);
     }
+
 }

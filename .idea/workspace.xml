@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99519120-b548-4e65-907c-b1394c3347c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PractiseClass/overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PractiseClass/overload2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/FlattenBinaryTreetoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SumRoottoLeafNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/mergeKLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/leetcode/HIndex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/leetcode/HIndex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/HIndex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/HIndex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/leetcode/CombinationSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/leetcode/CombinationSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/leetcode/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,47 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConstructBinaryTreefromPreorderandInorderTraversal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java">
+      <file leaf-file-name="SumRoottoLeafNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SumRoottoLeafNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CombinationSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/CombinationSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinSizeSubarraySum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/MinSizeSubarraySum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumOfIncreaseSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/NumOfIncreaseSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -86,12 +56,19 @@
         <option value="$PROJECT_DIR$/src/leetcode/MinSizeSubarraySum.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Subsets.java" />
         <option value="$PROJECT_DIR$/src/leetcode/GraphValidTree.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/lilunke/class03/ReOrderLinkedList.java" />
         <option value="$PROJECT_DIR$/src/lilunke/class15/DictionaryProblem.java" />
         <option value="$PROJECT_DIR$/src/leetcode/HIndex2.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/FlattenBinaryTreetoLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java" />
+        <option value="$PROJECT_DIR$/src/PractiseClass/overload.java" />
+        <option value="$PROJECT_DIR$/src/PractiseClass/overload2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/mergeKLists.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SumRoottoLeafNumbers.java" />
       </list>
     </option>
   </component>
@@ -104,11 +81,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="739" />
-    <option name="y" value="148" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-467" />
+    <option name="y" value="106" />
+    <option name="width" value="1920" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -116,8 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,17 +112,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Shuati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shuati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lilunke" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,9 +145,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructBinaryTreefromPreorderandInorderTraversal">
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.CombinationSum" />
+  <component name="RunManager" selected="Application.SumRoottoLeafNumbers">
+    <configuration name="FlattenBinaryTreetoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FlattenBinaryTreetoLinkedList" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -186,8 +157,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ConstructBinaryTreefromPreorderandInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ConstructBinaryTreefromPreorderandInorderTraversal" />
+    <configuration name="ReverseNodesinkGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseNodesinkGroup" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -197,41 +168,41 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DictionaryProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lilunke.class15.DictionaryProblem" />
-      <module name="Shuati" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lilunke.class15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="HIndex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.HIndex2" />
+    <configuration name="SumRoottoLeafNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SumRoottoLeafNumbers" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ReOrderLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lilunke.class03.ReOrderLinkedList" />
-      <module name="Shuati" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lilunke.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PractiseClass.overload" />
+      <module name="Shuati" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PractiseClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="overload2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PractiseClass.overload2" />
+      <module name="Shuati" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PractiseClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -272,19 +243,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ReOrderLinkedList" />
-      <item itemvalue="Application.HIndex2" />
-      <item itemvalue="Application.DictionaryProblem" />
-      <item itemvalue="Application.ConstructBinaryTreefromPreorderandInorderTraversal" />
-      <item itemvalue="Application.CombinationSum" />
+      <item itemvalue="Application.FlattenBinaryTreetoLinkedList" />
+      <item itemvalue="Application.ReverseNodesinkGroup" />
+      <item itemvalue="Application.overload" />
+      <item itemvalue="Application.overload2" />
+      <item itemvalue="Application.SumRoottoLeafNumbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.HIndex2" />
-        <item itemvalue="Application.DictionaryProblem" />
-        <item itemvalue="Application.ReOrderLinkedList" />
+        <item itemvalue="Application.SumRoottoLeafNumbers" />
+        <item itemvalue="Application.overload2" />
+        <item itemvalue="Application.overload" />
+        <item itemvalue="Application.ReverseNodesinkGroup" />
+        <item itemvalue="Application.FlattenBinaryTreetoLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -311,14 +282,23 @@
       <workItem from="1529179776390" duration="12000" />
       <workItem from="1529179824753" duration="2889000" />
       <workItem from="1529274217336" duration="6542000" />
+      <workItem from="1529782897062" duration="725000" />
+      <workItem from="1530146156560" duration="1382000" />
+      <workItem from="1530238710826" duration="813000" />
+      <workItem from="1530734731544" duration="639000" />
+      <workItem from="1530737909892" duration="1190000" />
+      <workItem from="1531189754870" duration="6530000" />
+      <workItem from="1531605465792" duration="208000" />
+      <workItem from="1531704576816" duration="1836000" />
+      <workItem from="1531793765396" duration="6793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36833000" />
+    <option name="totallyTimeSpent" value="56949000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="411" y="81" width="654" height="688" extended-state="0" />
+    <frame x="-311" y="71" width="1280" height="680" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -330,24 +310,24 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32013768" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32286212" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3921875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22195892" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4047619" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4938918" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +338,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/SumRoottoLeafNumbers.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -366,12 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -463,13 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/test215KthLargestElementInAnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -586,7 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode/GraphValidTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -632,30 +606,95 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/MinSizeSubarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/CombinationSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="-20">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deep.java" />
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/test215KthLargestElementInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/FlattenBinaryTreetoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseClass/overload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseClass/overload2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/mergeKLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SumRoottoLeafNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
