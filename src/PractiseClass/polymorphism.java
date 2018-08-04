@@ -1,6 +1,6 @@
 package PractiseClass;
 
-public class overload {
+public class polymorphism {
     public static class A {
         public String show(B obj) {
             return ("A and D");
