@@ -18,25 +18,25 @@ public class parkingLot {
         }
     }
 
-    public abstract class Vehicle{
+    public static abstract class Vehicle{
         public abstract VehicleSize getSize();
     }
 
-    public class Car extends Vehicle{
+    public static class Car extends Vehicle{
         @Override
         public VehicleSize getSize(){
             return VehicleSize.Compact;
         }
     }
 
-    public class Truck extends Vehicle{
+    public static class Truck extends Vehicle{
         @Override
         public VehicleSize getSize(){
             return VehicleSize.Large;
         }
     }
 
-    class ParkingSpot{
+    static class ParkingSpot{
         private final VehicleSize size;
         private Vehicle currentVehicle;
 
@@ -61,13 +61,13 @@ public class parkingLot {
         }
     }
 
-    class Level{
+    static class Level{
         private final List<ParkingSpot> spots;
         Level(int numOfSpots){
             List<ParkingSpot> list = new ArrayList<>(numOfSpots);
             int i = 0;
             for ( ; i < numOfSpots / 2; i++) {
-                list.add(new ParkingSpot(VehicleSize.Large));
+                list.add(new ParkingSpot(VehicleSize.Compact));
             }
             for ( ; i < numOfSpots; i++) {
                 list.add(new ParkingSpot(VehicleSize.Large));
@@ -89,7 +89,6 @@ public class parkingLot {
                 if (s.fit(v)) {
                     s.park(v);
                     return true;
-
                 }
             }
             return false;
@@ -106,7 +105,7 @@ public class parkingLot {
         }
     }
 
-    public class ParkingLot {
+    public static class ParkingLot {
         private final Level[] levels; // why don't use list?
         public ParkingLot(int numLevels, int numSpotsPerLevel) {
             levels = new Level[numLevels];
@@ -140,6 +139,29 @@ public class parkingLot {
                 }
             }
             return false;
+        }
+    }
+
+    public static void main (String[] args) {
+        ParkingLot lot = new ParkingLot(4, 10);
+        List<Vehicle> list = new ArrayList<>();
+        for (int i = 0; i < 50; i++) {
+            final Vehicle v = i % 2 == 0 ? new Car(): new Truck();
+            list.add(v);
+            boolean hasSpot = lot.hasSpots(v);
+            if ( i < 40) {
+                assert hasSpot;
+                assert lot.park(v);
+            } else {
+                assert !hasSpot;
+                assert !lot.park(v);
+            }
+        }
+        assert list.size() == 50;
+        int i = 0;
+        for (Vehicle v : list) {
+            assert i >= 40 || lot.leave(v);
+            i++;
         }
     }
 }

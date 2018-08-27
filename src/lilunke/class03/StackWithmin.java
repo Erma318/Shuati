@@ -45,4 +45,12 @@ public class StackWithmin {
         }
         return stack.peekFirst();
     }
+
+    public static void main(String[] args) {
+        StackWithmin here = new StackWithmin();
+        here.Solution();
+        here.push(4);
+        here.push(3);
+        here.push(2);
+    }
 }
