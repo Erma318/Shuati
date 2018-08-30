@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99519120-b548-4e65-907c-b1394c3347c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/drawBridge/minAbsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawBridge/parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goldman/RemoveComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goldman/allot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goldman/csvFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goldman/reverseCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lilunke/class16/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lilunke/class16/createRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterStrike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/barclays/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/barclays/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/barclays/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridge/PalindromicSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridge/SumConsecutiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridge/magicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridge/sortBySetBitCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridge/stringSplitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/PractiseClass/overload$A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/PractiseClass/overload$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/PractiseClass/overload$C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/PractiseClass/overload$D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/PractiseClass/overload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/lilunke/class03/ReOrderLinkedList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/lilunke/class03/ReOrderLinkedList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/lilunke/class03/ReOrderLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/lilunke/class03/ReOrderLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/lilunke/class03/StackWithmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/lilunke/class03/StackWithmin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lilunke/class03/ReOrderLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class03/ReOrderLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lilunke/class03/StackWithmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class03/StackWithmin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lilunke/class16/parkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class16/parkingLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/stringValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawBridge/stringValid.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,33 +39,35 @@
     <session id="-1600521606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="33" />
+          <entry key="java" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="33" />
+          <entry key="JAVA" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="13125" />
+          <entry key="dummy" value="17" />
+          <entry key="java" value="18338" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13125" />
+          <entry key="JAVA" value="18338" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -86,12 +79,100 @@
     <favorites_list name="Shuati" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CounterStrike.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2812">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
+              <folding>
+                <element signature="e#0#4177#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#1076#1077#0" expanded="true" />
+                <element signature="e#1113#1114#0" expanded="true" />
+                <element signature="e#1163#1164#0" expanded="true" />
+                <element signature="e#1199#1200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridge/magicString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridge/stringValid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridge/stringSplitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridge/sortBySetBitCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/drawBridge/parentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="665">
               <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridge/PalindromicSubstrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/drawBridge/SumConsecutiveNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridge/minAbsList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-start-column="2" selection-end-line="21" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -148,6 +229,17 @@
         <option value="$PROJECT_DIR$/src/goldman/csvFormat.java" />
         <option value="$PROJECT_DIR$/src/drawBridge/minAbsList.java" />
         <option value="$PROJECT_DIR$/src/drawBridge/parentheses.java" />
+        <option value="$PROJECT_DIR$/src/drawBridge/stringSplitTest.java" />
+        <option value="$PROJECT_DIR$/src/drawBridge/stringValid.java" />
+        <option value="$PROJECT_DIR$/src/drawBridge/sortBySetBitCount.java" />
+        <option value="$PROJECT_DIR$/src/barclays/q1.java" />
+        <option value="$PROJECT_DIR$/src/barclays/q2.java" />
+        <option value="$PROJECT_DIR$/src/barclays/q3.java" />
+        <option value="$PROJECT_DIR$/src/barclays/q4.java" />
+        <option value="$PROJECT_DIR$/src/CounterStrike.java" />
+        <option value="$PROJECT_DIR$/src/drawBridge/magicString.java" />
+        <option value="$PROJECT_DIR$/src/drawBridge/PalindromicSubstrings.java" />
+        <option value="$PROJECT_DIR$/src/drawBridge/SumConsecutiveNumber.java" />
       </list>
     </option>
   </component>
@@ -163,10 +255,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -190,15 +283,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535313995049" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535649478176" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -221,51 +314,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.parentheses">
-    <configuration name="ReverseNodesinkGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseNodesinkGroup" />
+  <component name="RunManager" selected="Application.minAbsList">
+    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CounterStrike" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="allot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goldman.allot" />
-      <module name="Shuati" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="goldman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="csvFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goldman.csvFormat" />
-      <module name="Shuati" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="goldman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -284,8 +343,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawBridge.parentheses" />
+    <configuration name="sortBySetBitCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawBridge.sortBySetBitCount" />
+      <module name="Shuati" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drawBridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringSplitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawBridge.stringSplitTest" />
+      <module name="Shuati" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drawBridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawBridge.stringValid" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -313,19 +400,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.csvFormat" />
-      <item itemvalue="Application.allot" />
-      <item itemvalue="Application.ReverseNodesinkGroup" />
+      <item itemvalue="Application.stringSplitTest" />
+      <item itemvalue="Application.stringValid" />
+      <item itemvalue="Application.sortBySetBitCount" />
+      <item itemvalue="Application.CounterStrike" />
       <item itemvalue="Application.minAbsList" />
-      <item itemvalue="Application.parentheses" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.parentheses" />
         <item itemvalue="Application.minAbsList" />
-        <item itemvalue="Application.ReverseNodesinkGroup" />
-        <item itemvalue="Application.csvFormat" />
-        <item itemvalue="Application.allot" />
+        <item itemvalue="Application.CounterStrike" />
+        <item itemvalue="Application.sortBySetBitCount" />
+        <item itemvalue="Application.stringValid" />
+        <item itemvalue="Application.stringSplitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -370,11 +457,16 @@
       <workItem from="1534791520642" duration="1264000" />
       <workItem from="1534904526216" duration="599000" />
       <workItem from="1534906561312" duration="44298000" />
+      <workItem from="1535338378926" duration="7389000" />
+      <workItem from="1535415585688" duration="3376000" />
+      <workItem from="1535486190159" duration="8530000" />
+      <workItem from="1535571537146" duration="4215000" />
+      <workItem from="1535664861335" duration="639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131422000" />
+    <option name="totallyTimeSpent" value="155571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,28 +478,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.2834008" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610388" visible="true" weight="0.21619433" />
+      <window_info id="Structure" order="1" sideWeight="0.5038961" side_tool="true" weight="0.10850202" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5008881" side_tool="true" weight="0.47206476" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33216783" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.48490232" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33216783" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3232682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3181818" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32692307" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.30373" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.30319148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24789207" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,77 +533,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="1335" selection-start-line="1335" selection-end-line="1335" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quickSort.java" />
-    <entry file="file://$PROJECT_DIR$/src/LongestConsecutiveSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lilunke/Final/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lilunke/Final/Q2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lilunke/Final/minCut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LeftViewOfBst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/GraphValidTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HIndex2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="656" selection-start-line="656" selection-end-line="656" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/NumOfIncreaseSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -693,13 +713,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GoldmanOA/70_climbing stairs.java" />
-    <entry file="file://$PROJECT_DIR$/src/goldman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/goldman.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -707,33 +721,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="83" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
     <entry file="file://$PROJECT_DIR$/src/goldman/reverseCal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/goldman/RemoveComments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-912">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,10 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1142#1150#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,13 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridge/minAbsList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-start-column="2" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -773,10 +754,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/goldman/RemoveComments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/barclays/q2.java" />
+    <entry file="file://$PROJECT_DIR$/src/barclays/q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/barclays/q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/barclays/q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CounterStrike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="e#0#4177#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridge/magicString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridge/stringValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridge/stringSplitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridge/sortBySetBitCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/drawBridge/parentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="665">
           <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridge/PalindromicSubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridge/minAbsList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-start-column="2" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridge/SumConsecutiveNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
