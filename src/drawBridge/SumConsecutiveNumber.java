@@ -18,7 +18,7 @@ public class SumConsecutiveNumber {
         return count;
     }
 
-    // Driver code to test above function
+    // Driver code to google.decompress above function
     public static void main(String[] args) {
         int N = 15;
         System.out.println(countConsecutive(N));
