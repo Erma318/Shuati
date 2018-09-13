@@ -33,7 +33,7 @@ public class Q1 {
 
     public static void main (String[] args) {
         Q1 here = new Q1();
-        System.out.println(here.permutation("ABC"));
+        System.out.println(here.permutation("abcd"));
 
     }
 

@@ -1,8 +1,10 @@
+package yuyang;
+
 import java.io.PrintStream;
 
 ///////////////////////////////////////////////////////////////////////////
 //
-// Node class
+// yuyang.Node class
 //
 ///////////////////////////////////////////////////////////////////////////
 
@@ -150,7 +152,7 @@ class Node
         // Begin google.decompress section
         //
         ////////////////////////////////////////////////////////////////////
-//        Node root = this;
+//        yuyang.Node root = this;
 //        helper(root, node);
 //        return true;
 
@@ -183,7 +185,7 @@ class Node
 
     }
 
-//    private Node helper(Node root, Node node) {
+//    private yuyang.Node helper(yuyang.Node root, yuyang.Node node) {
 //        if (root == null) {
 //            return node;
 //        }
@@ -199,7 +201,7 @@ class Node
 
 ///////////////////////////////////////////////////////////////////////////
 //
-// BinaryTree class
+// yuyang.BinaryTree class
 //
 ///////////////////////////////////////////////////////////////////////////
 
@@ -312,7 +314,7 @@ class BinaryTree
         }
 
         //
-        // Node already exists. No duplicates allowed
+        // yuyang.Node already exists. No duplicates allowed
         //
         if (root.findNode(key) != null) {
             return false;
@@ -334,7 +336,7 @@ class BinaryTree
 
 ///////////////////////////////////////////////////////////////////////////
 //
-// BinTest class
+// yuyang.BinTest class
 //
 ///////////////////////////////////////////////////////////////////////////
 

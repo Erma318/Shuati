@@ -1,4 +1,4 @@
-// A Java program to demonstrate working of
+package designPattern;// A Java program to demonstrate working of
 // FlyWeight Pattern with example of Counter
 // Strike Game
 import java.util.Random;
@@ -11,7 +11,7 @@ interface Player
     public void mission();
 }
 
-// Terrorist must have weapon and mission
+// designPattern.Terrorist must have weapon and mission
 class Terrorist implements Player
 {
     // Intrinsic Attribute
@@ -32,12 +32,12 @@ class Terrorist implements Player
     public void mission()
     {
         //Work on the Mission
-        System.out.println("Terrorist with weapon "
+        System.out.println("designPattern.Terrorist with weapon "
                 + weapon + "|" + " Task is " + TASK);
     }
 }
 
-// CounterTerrorist must have weapon and mission
+// designPattern.CounterTerrorist must have weapon and mission
 class CounterTerrorist implements Player
 {
     // Intrinsic Attribute
@@ -56,7 +56,7 @@ class CounterTerrorist implements Player
     }
     public void mission()
     {
-        System.out.println("Counter Terrorist with weapon "
+        System.out.println("Counter designPattern.Terrorist with weapon "
                 + weapon + "|" + " Task is " + TASK);
     }
 }
@@ -67,7 +67,7 @@ class CounterTerrorist implements Player
 class PlayerFactory
 {
     /* HashMap stores the reference to the object
-    of Terrorist(TS) or CounterTerrorist(CT). */
+    of designPattern.Terrorist(TS) or designPattern.CounterTerrorist(CT). */
     private static HashMap <String, Player> hm =
             new HashMap<String, Player>();
 
@@ -85,12 +85,12 @@ class PlayerFactory
             /* create an object of TS/CT */
             switch(type)
             {
-                case "Terrorist":
-                    System.out.println("Terrorist Created");
+                case "designPattern.Terrorist":
+                    System.out.println("designPattern.Terrorist Created");
                     p = new Terrorist();
                     break;
-                case "CounterTerrorist":
-                    System.out.println("Counter Terrorist Created");
+                case "designPattern.CounterTerrorist":
+                    System.out.println("Counter designPattern.Terrorist Created");
                     p = new CounterTerrorist();
                     break;
                 default :
@@ -110,7 +110,7 @@ public class CounterStrike
     // All player types and weopons (used by getRandPlayerType()
     // and getRandWeapon()
     private static String[] playerType =
-            {"Terrorist", "CounterTerrorist"};
+            {"designPattern.Terrorist", "designPattern.CounterTerrorist"};
     private static String[] weapons =
             {"AK-47", "Maverick", "Gut Knife", "Desert Eagle"};
 
