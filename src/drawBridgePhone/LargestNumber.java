@@ -35,6 +35,13 @@ public class LargestNumber {
         return sb.toString();
 
     }
+    /*
+    Then, compare 2 strings will take O(k).
+Sorting will take O(nlgn)
+Appending to StringBuilder takes O(n).
+So total will be O(nklgnk) + O(n) = O(nklgnk).
+Space is pretty straight forward: O(n).
+     */
 
     public static void main(String[] args) {
         LargestNumber here = new LargestNumber();

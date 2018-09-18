@@ -38,11 +38,9 @@ public class RemoveKDigits {
 
     public static void main(String args[] ) throws Exception {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT */
-        Scanner in = new Scanner(System.in);
-        String num = in.next();
-        int k = in.nextInt();
+
         RemoveKDigits here = new RemoveKDigits();
-        System.out.println(here.removeKdigits(num, k));
+        System.out.println(here.removeKdigits("1432219", 3));
 
     }
 }
