@@ -2,32 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99519120-b548-4e65-907c-b1394c3347c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/f5tech/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f5tech/q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f5tech/q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f5tech/q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f5tech/q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridgePhone/LCA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridgePhone/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridgePhone/RemoveKDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridgePhone/houseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridgePhone/integerToEnglishWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawBridgePhone/largestSmallerBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/BinTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/CodeReview$ListNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Shuati/CodeReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/CodeReview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/CounterStrike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/CounterTerrorist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/LongestConsecutiveSequence$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/LongestConsecutiveSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/PlayerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/Terrorist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/lilunke/Final/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/lilunke/Final/Q1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yuyang/BinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/linkedlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/linkedlist.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CodeReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CounterStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/CounterStrike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestConsecutiveSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lilunke/Final/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/Final/Q1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,42 +38,43 @@
     <session id="-1600521606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="6" />
-          <entry key="project.open.time.7" value="8" />
+          <entry key="project.open.time.7" value="9" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="111" />
+          <entry key="java" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="111" />
+          <entry key="JAVA" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="27" />
-          <entry key="java" value="26418" />
+          <entry key="java" value="28462" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="26418" />
+          <entry key="JAVA" value="28462" />
           <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FavoritesManager">
@@ -100,17 +85,75 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CodeReview.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="171">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/integerToEnglishWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/RemoveKDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/linkedlist.java">
+        <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/houseRobber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" selection-start-line="9" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/largestSmallerBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/LargestNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/LCA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -147,12 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lilunke/class16/parkingLot.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LinkedListCycleII.java" />
-        <option value="$PROJECT_DIR$/src/lilunke/class16/createRoom.java" />
-        <option value="$PROJECT_DIR$/src/lilunke/class03/StackWithmin.java" />
-        <option value="$PROJECT_DIR$/src/lilunke/class03/ReOrderLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/goldman/RemoveComments.java" />
         <option value="$PROJECT_DIR$/src/goldman/reverseCal.java" />
         <option value="$PROJECT_DIR$/src/goldman/allot.java" />
         <option value="$PROJECT_DIR$/src/goldman/csvFormat.java" />
@@ -197,7 +234,13 @@
         <option value="$PROJECT_DIR$/src/coderrrr.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java" />
         <option value="$PROJECT_DIR$/src/linkedlist.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone/LargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone/LCA.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone/largestSmallerBST.java" />
         <option value="$PROJECT_DIR$/src/CodeReview.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone/integerToEnglishWords.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone/RemoveKDigits.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone/houseRobber.java" />
       </list>
     </option>
   </component>
@@ -213,10 +256,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -225,7 +269,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,17 +281,24 @@
               <item name="Shuati" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Shuati" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shuati" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="drawBridgePhone" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536813097702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537225531603" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -272,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.linkedlist">
+  <component name="RunManager" selected="Application.CodeReview">
     <configuration name="CodeReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeReview" />
       <module name="Shuati" />
@@ -281,10 +331,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSequence" />
+    <configuration name="LCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawBridgePhone.LCA" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drawBridgePhone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -309,10 +365,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="coderrrr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderrrr" />
+    <configuration name="largestSmallerBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawBridgePhone.largestSmallerBST" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="drawBridgePhone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -341,18 +403,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CodeReview" />
-      <item itemvalue="Application.coderrrr" />
-      <item itemvalue="Application.LongestConsecutiveSequence" />
       <item itemvalue="Application.ReverseNodesinkGroup" />
       <item itemvalue="Application.linkedlist" />
+      <item itemvalue="Application.LCA" />
+      <item itemvalue="Application.largestSmallerBST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodeReview" />
+        <item itemvalue="Application.largestSmallerBST" />
+        <item itemvalue="Application.LCA" />
         <item itemvalue="Application.linkedlist" />
         <item itemvalue="Application.ReverseNodesinkGroup" />
-        <item itemvalue="Application.LongestConsecutiveSequence" />
-        <item itemvalue="Application.CodeReview" />
-        <item itemvalue="Application.coderrrr" />
       </list>
     </recent_temporary>
   </component>
@@ -410,12 +472,14 @@
       <workItem from="1536370934737" duration="14166000" />
       <workItem from="1536631828846" duration="579000" />
       <workItem from="1536632536852" duration="744000" />
-      <workItem from="1536633585653" duration="7102000" />
+      <workItem from="1536633585653" duration="8307000" />
+      <workItem from="1537056229682" duration="11978000" />
+      <workItem from="1537225476930" duration="659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221222000" />
+    <option name="totallyTimeSpent" value="235064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,10 +491,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49610388" weight="0.4367622" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610388" visible="true" weight="0.23238866" />
       <window_info id="Structure" order="1" sideWeight="0.5038961" side_tool="true" weight="0.10850202" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,7 +503,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008881" side_tool="true" weight="0.47206476" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3321492" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31083483" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29021558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.51787776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,49 +555,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="135" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/goldman/RemoveComments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/barclays/q2.java" />
-    <entry file="file://$PROJECT_DIR$/src/barclays/q3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-646">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/barclays/q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/barclays/q4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridge/magicString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/drawBridge/stringValid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -731,9 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
           <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,9 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="6" selection-start-line="6" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,16 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderrrr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#488#516#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coderrrr.java" />
     <entry file="file://$PROJECT_DIR$/src/goldman/csvFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
@@ -785,20 +791,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestConsecutiveSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestConsecutiveSequence.java" />
+    <entry file="file://$PROJECT_DIR$/src/designPattern.java" />
     <entry file="file://$PROJECT_DIR$/src/designPattern/CounterStrike.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -813,17 +807,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeReview.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedlist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="684">
+          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedlist.java">
+    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone.java" />
+    <entry file="file://$PROJECT_DIR$/src/CodeReview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" selection-start-line="9" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="171">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/largestSmallerBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/LargestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/LCA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/integerToEnglishWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/RemoveKDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone/houseRobber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
