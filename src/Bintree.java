@@ -1,10 +1,8 @@
-package yuyang;
-
 import java.io.PrintStream;
 
 ///////////////////////////////////////////////////////////////////////////
 //
-// yuyang.Node class
+// Node class
 //
 ///////////////////////////////////////////////////////////////////////////
 
@@ -62,7 +60,7 @@ class Node
     public Node findNode(int k)
     {
         if (k == getKey()) {
-            return this;
+           return this;
         }
 
         if (k < getKey()) {
@@ -149,59 +147,45 @@ class Node
 
         ////////////////////////////////////////////////////////////////////
         //
-        // Begin google.decompress section
+        // Begin test section
         //
         ////////////////////////////////////////////////////////////////////
-//        yuyang.Node root = this;
-//        helper(root, node);
-//        return true;
-
-        assert node.getKey() != this.getKey() : "Key to be inserted is not valid";
-
-        if (node.getKey() < this.getKey()) {
-            if (this.getLeft() == null) {
-                node.setParent(this);
-                this.setLeft(node);
-            }else {
-                this.left.insertNode(node);
-            }
-        }else if(node.getKey() > this.getKey()) {
-            if (this.getRight() == null) {
-                node.setParent(this);
-                this.setRight(node);
-            }else {
-                this.right.insertNode(node);
+        Node root = this;
+        while (true) {
+            if (root.getKey() > node.getKey()) { // if the current node larger than the node value we want to insert, we go to check its left child
+                if (root.getLeft() != null) { // if we haven't get to the leaf node, set the current node to the its left child, keep searching
+                    root = root.getLeft();
+                } else { // if we already get to the leaf node,we can do the insert
+                    root.setLeft(node);
+                    node.setParent(root);
+                    return true;
+                }
+            } else if (root.getKey() < node.getKey()) { // if the current node smaller than the node value we want to insert, we go to check its right child
+                if (root.getRight() != null) { // if we haven't get to the leaf node, set the current node to the its right child, keep searching
+                    root = root.getRight();
+                } else { // if we already get to the leaf node,we can do the insert
+                    root.setRight(node);
+                    node.setParent(root);
+                    return true;
+                }
+            } else { // if the node value has exist in the three, insert failed
+                return false;
             }
         }
 
-
-        return true;
-
         ////////////////////////////////////////////////////////////////////
         //
-        // End google.decompress section
+        // End test section
         //
         ////////////////////////////////////////////////////////////////////
 
     }
 
-//    private yuyang.Node helper(yuyang.Node root, yuyang.Node node) {
-//        if (root == null) {
-//            return node;
-//        }
-//        if (root.key < node.key) {
-//            root.right = helper(root.right, node);
-//        } else if (root.key > node.key) {
-//            root.left = helper(root.left, node);
-//        }
-//        return root;
-//    }
-
 };
 
 ///////////////////////////////////////////////////////////////////////////
 //
-// yuyang.BinaryTree class
+// BinaryTree class
 //
 ///////////////////////////////////////////////////////////////////////////
 
@@ -284,15 +268,19 @@ class BinaryTree
 
             //////////////////////////////////////////////////////////////////
             //
-            // Begin google.decompress section
+            // Begin test section
             //
             //////////////////////////////////////////////////////////////////
 
+            int succV = succ.getKey();
+            this.deleteNode(succV);			// delete successor node
+            node.setKey(succV);				// replace the key of node with the key of successor
+
 
 
             //////////////////////////////////////////////////////////////////
             //
-            // End google.decompress section
+            // End test section
             //
             //////////////////////////////////////////////////////////////////
         }
@@ -314,7 +302,7 @@ class BinaryTree
         }
 
         //
-        // yuyang.Node already exists. No duplicates allowed
+        // Node already exists. No duplicates allowed
         //
         if (root.findNode(key) != null) {
             return false;
@@ -336,7 +324,7 @@ class BinaryTree
 
 ///////////////////////////////////////////////////////////////////////////
 //
-// yuyang.BinTest class
+// BinTest class
 //
 ///////////////////////////////////////////////////////////////////////////
 
@@ -346,31 +334,64 @@ class BinTest
     {
         BinaryTree bt = new BinaryTree();
 
-//        bt.insertNode(5);
-////        bt.insertNode(8);
-////        bt.insertNode(6);
-////        bt.insertNode(2);
-////        bt.insertNode(7);
-////        bt.insertNode(9);
-////        bt.insertNode(4);
         bt.insertNode(5);
-        bt.insertNode(3);
+        bt.insertNode(8);
         bt.insertNode(6);
         bt.insertNode(2);
-        bt.insertNode(4);
         bt.insertNode(7);
+        bt.insertNode(9);
+        bt.insertNode(4);
+
 
         System.out.println("Initial tree:");
         bt.display(System.out);
 
-//        bt.deleteNode(8);
-//        System.out.println("Tree after 8 is deleted:");
-//        bt.display(System.out);
-//
-//        bt.deleteNode(5);
-//        System.out.println("Tree after 5 is deleted:");
-//        bt.display(System.out);
+        bt.deleteNode(8);
+        System.out.println("Tree after 8 is deleted:");
+        bt.display(System.out);
+
+        bt.deleteNode(5);
+        System.out.println("Tree after 5 is deleted:");
+        bt.display(System.out);
     }
 }
 //Programming Test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
