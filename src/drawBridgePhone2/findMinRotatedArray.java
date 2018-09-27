@@ -30,7 +30,7 @@ public class findMinRotatedArray {
 
     public static void main(String[] args) {
         findMinRotatedArray here = new findMinRotatedArray();
-        int[] input =  {1,2,3, 7,8,9,4,5, 6};
+        int[] input =  {1,2,3,7,8,9,4,5,6};
         System.out.println(here.finMinThree(input));
     }
 }

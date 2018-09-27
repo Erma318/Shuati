@@ -25,7 +25,7 @@ public class binaryTreePath {
 
     private Node helper(List<Integer> res, Node root, Node node) {
         if (root == null) return null;
-        if (root.val == node.val) {
+        if (root == node) {
             res.add(0, root.val);
             return root;
         }
@@ -52,9 +52,9 @@ public class binaryTreePath {
         two.right = five;
         three.left = six;
         three.right = seven;
-        Node node = new Node(5);
+        //Node node = new Node(5);
         binaryTreePath here = new binaryTreePath();
-        for (Integer n : here.find(one, node)) {
+        for (Integer n : here.find(one, five)) {
             System.out.println(n);
         }
     }
