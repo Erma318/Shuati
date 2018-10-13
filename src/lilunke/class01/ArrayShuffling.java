@@ -26,7 +26,7 @@ public class ArrayShuffling{
         return array;
     }
 //    public int[] moveZero(int[] array) {
-//        // Write your solution here.
+//        // Write your removeCho2 here.
 //        int i = 0;
 //        int j= array.length - 1;
 //        while (i <= j) {

@@ -13,7 +13,7 @@ public class GetNodeInGivenRange {
         }
     }
     public List<Integer> getRange(TreeNode root, int min, int max) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         List<Integer> res = new ArrayList<>();
         getRange(root, min, max, res);
         return res;

@@ -97,7 +97,7 @@ public class ReOrderLinkedList {
     }
 //
 ////    public ListNode reorder(ListNode head) {
-////        // Write your solution here
+////        // Write your removeCho2 here
 ////        ListNode mid = midPoint(head);
 ////        ListNode tail = reverse(mid.next);
 ////        ListNode node  = head;
@@ -166,7 +166,7 @@ public class ReOrderLinkedList {
 //        if (head == null || head.next == null || head.next.next == null) {
 //            return head;
 //        }
-//        // Write your solution here.
+//        // Write your removeCho2 here.
 //        ListNode two = findMid(head);
 //        two = reverse(two);
 //        //return two;

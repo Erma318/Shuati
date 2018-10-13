@@ -6,7 +6,7 @@ import java.util.List;
 
 public class CombinationsOfCoins {
     public List<List<Integer>> combinations(int target, int[] coins) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         List<List<Integer>> res = new LinkedList<>();
         List<Integer> cur = new ArrayList<>();
         combinations(target, cur, res, 0, coins);

@@ -5,7 +5,7 @@ import java.util.*;
 public class Bipartite {
 
     public boolean isBipartite(List<GraphNode> graph) {
-        // write your solution here
+        // write your removeCho2 here
         // 1 : Group 1, 2 : Group 2
         HashMap<GraphNode, Integer> visited = new HashMap<>();
         Queue<GraphNode> NodeQueue = new LinkedList<>();

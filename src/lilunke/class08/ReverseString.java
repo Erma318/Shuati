@@ -2,7 +2,7 @@ package lilunke.class08;
 
 public class ReverseString {
     public String reverse(String input) {
-        // Write your solution here
+        // Write your removeCho2 here
         char[] array = input.toCharArray();
         int i = 0;
         int j = input.length() - 1;

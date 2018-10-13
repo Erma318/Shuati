@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class CheckIfBinaryTreeIsCompleted {
     public boolean isCompleted(TreeNode root) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         if(root == null) {
             return true;
         }

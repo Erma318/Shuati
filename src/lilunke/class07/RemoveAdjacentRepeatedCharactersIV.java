@@ -6,7 +6,7 @@ public class RemoveAdjacentRepeatedCharactersIV {
 // [i, j) can be taken as empty
 // [j, length - 1] is where we need to check
     public String deDup(String input) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         if (input == null || input.length() <= 1) {
             return input;
         }

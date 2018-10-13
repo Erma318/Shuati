@@ -2,7 +2,7 @@ package lilunke.class08;
 
 public class DecompressStringII {
     public String decompress(String input) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         if (input.isEmpty()) {
             return input;
         }

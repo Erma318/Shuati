@@ -2,7 +2,7 @@ package lilunke.class07;
 
 public class DetermineIfOneStringIsAnothersSubstring {
     public int strstr(String large, String small) {
-        // write your solution here
+        // write your removeCho2 here
         if (small.length() == 0) {
             return 0;
         }

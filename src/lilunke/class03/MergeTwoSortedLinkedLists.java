@@ -63,7 +63,7 @@ public class MergeTwoSortedLinkedLists {
 
 
 //    public ListNode merge(ListNode one, ListNode two) {
-//        // write your solution here
+//        // write your removeCho2 here
 //        ListNode newHead = null;
 //        if (one == null && two == null) {
 //            return null;

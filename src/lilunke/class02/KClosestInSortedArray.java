@@ -15,7 +15,7 @@ public class KClosestInSortedArray {
         if (k == 0) {
             return new int[0];
         }
-        // Write your solution here
+        // Write your removeCho2 here
         int[] res = new int[k];
         int left = largestSmallerOrEqual(array, target);
         int right = left + 1;

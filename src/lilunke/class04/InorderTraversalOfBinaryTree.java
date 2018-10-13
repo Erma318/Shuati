@@ -13,7 +13,7 @@ public class InorderTraversalOfBinaryTree {
         }
     }
     public List<Integer> inOrder(TreeNode root) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         List<Integer> res = new ArrayList<>();
         if (root == null) {
             return res;

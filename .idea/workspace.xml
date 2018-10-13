@@ -2,17 +2,215 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99519120-b548-4e65-907c-b1394c3347c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/drawBridgePhone2/listAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bloomberg/FirstOccurCha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bloomberg/FiveTwoCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bloomberg/chooseDestinationMakeSumMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bloomberg/deepParenthesesString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bloomberg/matrixGoSumMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bloomberg/stockStoreSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bloomberg/subway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lilunke/ReservoirSampling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/LCAbst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/mapIterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/missingNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/pureStorage/CountPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/pureStorage/LockAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/pureStorage/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/visaOA/DistinctPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/visaOA/MergeSring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/visaOA/RemoveCho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/visaOA/conSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/visaOA/mA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/visaOA/removeCho2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pastOA/visaOA/workSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntaxTest/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntaxTest/finalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntaxTest/overridePrivateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treeTestCases.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/CodeReview$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/BinTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/BinaryTree.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Shuati/CodeReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/CodeReview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/binaryTreePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/binaryTreePath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/mapIterate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/mapIterate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/barclays/q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/barclays/q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/barclays/q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/PalindromicSubstrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/SumConsecutiveNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/magicString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/minAbsList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/parentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/sortBySetBitCount$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/sortBySetBitCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/stringSplitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridge/stringValid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/LCA$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/LCA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/LCAbst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/LargestNumber$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/LargestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/RemoveKDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/houseRobber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/integerToEnglishWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/kSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/largestSmallerBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/largestSmallerBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/wordDictionary$TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone1/wordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/LFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/SerializeBT$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/SerializeBT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/binaryTreePath$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/binaryTreePath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/findMinRotatedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/horseRacing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/jungleBook$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/jungleBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/listAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/mapIterate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/sizeOfMaxIsland.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/topKoccurance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/drawBridgePhone2/topKoccurance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/f5tech/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/f5tech/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/f5tech/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/f5tech/q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/f5tech/q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/f5tech/q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/f5tech/q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/goldman/RemoveComments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/goldman/allot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/goldman/allot$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/goldman/allot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/goldman/csvFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/goldman/reverseCal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/interview/Capitalogix/Permutaion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/interview/Capitalogix/Q1$Answer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/interview/Capitalogix/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/interview/Capitalogix/Q2$Answer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/interview/Capitalogix/Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/interview/Capitalogix/maxSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/linkedinOA/Paritypermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/linkedinOA/SumOfSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/linkedinOA/q1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/linkedinOA/q1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/linkedinOA/q2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/linkedinOA/q2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/liusiming/q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/liusiming/q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/liusiming/q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/HackerlandElection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/HuffmanDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/ImageMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/MissingWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/NoPairsAllowed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/PrimesInSubtree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/RoverControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/SimpleTextQueries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/WhoIsTheClosest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/twitter/q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bintree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/Bintree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CodeReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/LFUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawBridgePhone2/LFUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/binaryTreePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawBridgePhone2/binaryTreePath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/findMinRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawBridgePhone2/findMinRotatedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/mapIterate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawBridgePhone2/mapIterate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GuideWire/GuideWireOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/GuideWire/GuideWireOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GuideWire/snailOOD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/GuideWire/snailOOD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/barclays/q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/barclays/q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/barclays/q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/barclays/q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/barclays/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/barclays/q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/PalindromicSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/PalindromicSubstrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/SumConsecutiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/SumConsecutiveNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/magicString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/magicString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/minAbsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/minAbsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/sortBySetBitCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/sortBySetBitCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/stringSplitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/stringSplitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridge/stringValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/drawBridge/stringValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/LCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/LCA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/LCAbst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/RemoveKDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/RemoveKDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/houseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/houseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/integerToEnglishWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/integerToEnglishWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/kSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/kSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/largestSmallerBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/largestSmallerBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone1/wordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone1/wordDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/LFUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/LFUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/SerializeBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/SerializeBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/binaryTreePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/binaryTreePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/findMinRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/findMinRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/horseRacing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/horseRacing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/jungleBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/jungleBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/listAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/listAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/mapIterate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/sizeOfMaxIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/sizeOfMaxIsland.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawBridgePhone2/topKoccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/drawBridgePhone2/topKoccurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f5tech/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/f5tech/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f5tech/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/f5tech/q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f5tech/q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/f5tech/q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f5tech/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/f5tech/q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f5tech/q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/f5tech/q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/syntaxTest/generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goldman/RemoveComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/goldman/RemoveComments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goldman/allot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/goldman/allot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goldman/csvFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/goldman/csvFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goldman/reverseCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/goldman/reverseCal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Capitalogix/Permutaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/Capitalogix/Permutaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Capitalogix/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/Capitalogix/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Capitalogix/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/Capitalogix/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Capitalogix/maxSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/past/Capitalogix/maxSub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class01/ArrayShuffling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class01/ArrayShuffling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class01/QuickSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class01/QuickSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class01/RainbowSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class01/RainbowSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/ApowerB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/ApowerB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/ClassicalBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/ClassicalBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/ClosestInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/ClosestInSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/FirstOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/FirstOccurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/KClosestInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/KClosestInSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/LastOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/LastOccurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class02/SearchInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class02/SearchInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class03/MergeTwoSortedLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class03/MergeTwoSortedLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class03/PartitionLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class03/PartitionLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class03/QueueByTwoStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class03/QueueByTwoStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class03/ReOrderLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class03/ReOrderLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class03/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class03/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class04/GetNodeInGivenRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class04/GetNodeInGivenRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class04/InorderTraversalOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class04/InorderTraversalOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class05/Bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class05/Bipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class05/CheckIfBinaryTreeIsCompleted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class05/CheckIfBinaryTreeIsCompleted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class05/GetKeysInBinaryTreeLayerByLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class05/GetKeysInBinaryTreeLayerByLayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class05/KthSmallestNumberInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class05/KthSmallestNumberInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class06/AllSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class06/AllSubsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class06/AllValidPermutationsOfParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class06/AllValidPermutationsOfParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class06/CombinationsOfCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class06/CombinationsOfCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class07/CommonNumbersOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class07/CommonNumbersOfTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class07/DetermineIfOneStringIsAnothersSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class07/DetermineIfOneStringIsAnothersSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class07/RemoveAdjacentRepeatedCharactersI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class07/RemoveAdjacentRepeatedCharactersI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class07/RemoveAdjacentRepeatedCharactersIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class07/RemoveAdjacentRepeatedCharactersIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class07/RemoveCertainCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class07/RemoveCertainCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class07/TopKFrequentWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class07/TopKFrequentWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class08/DecompressStringII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class08/DecompressStringII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class08/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class08/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class15/LongestCrossOf1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class15/LongestCrossOf1s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedinOA/Paritypermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/linkedinOA/Paritypermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedinOA/SumOfSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/linkedinOA/SumOfSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedinOA/q1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/linkedinOA/q1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedinOA/q1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/linkedinOA/q1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedinOA/q2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/linkedinOA/q2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedinOA/q2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/linkedinOA/q2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liusiming/q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/liusiming/q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liusiming/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/liusiming/q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liusiming/q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/liusiming/q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/HackerlandElection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/HackerlandElection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/HuffmanDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/HuffmanDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/ImageMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/ImageMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/MissingWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/MissingWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/NoPairsAllowed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/NoPairsAllowed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/PrimesInSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/PrimesInSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/RoverControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/RoverControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/SimpleTextQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/SimpleTextQueries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/WhoIsTheClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/WhoIsTheClosest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twitter/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pastOA/twitter/q2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,37 +237,39 @@
     <session id="-1600521606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="46" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="6" />
-          <entry key="project.open.time.6" value="8" />
-          <entry key="project.open.time.7" value="13" />
-          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.6" value="9" />
+          <entry key="project.open.time.7" value="17" />
+          <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="39" />
+          <entry key="project.opened" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="206" />
+          <entry key="java" value="290" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="206" />
+          <entry key="JAVA" value="290" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="27" />
-          <entry key="java" value="40766" />
+          <entry key="dummy" value="29" />
+          <entry key="java" value="52193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="40766" />
-          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="JAVA" value="52193" />
+          <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -84,10 +284,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/binaryTreePath.java">
+        <entry file="file://$PROJECT_DIR$/src/CodeReview.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="228">
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -125,37 +325,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/twitter/RoverControl.java" />
-        <option value="$PROJECT_DIR$/src/twitter/q2.java" />
-        <option value="$PROJECT_DIR$/src/twitter/ImageMatching.java" />
-        <option value="$PROJECT_DIR$/src/q2.java" />
-        <option value="$PROJECT_DIR$/src/q1.java" />
-        <option value="$PROJECT_DIR$/src/q3.java" />
-        <option value="$PROJECT_DIR$/src/stringtest.java" />
-        <option value="$PROJECT_DIR$/src/decompress.java" />
-        <option value="$PROJECT_DIR$/src/google/decompress.java" />
-        <option value="$PROJECT_DIR$/src/f5tech/q2.java" />
-        <option value="$PROJECT_DIR$/src/lilunke/Final/Q1.java" />
-        <option value="$PROJECT_DIR$/src/f5tech/q5.java" />
-        <option value="$PROJECT_DIR$/src/f5tech/q1.java" />
-        <option value="$PROJECT_DIR$/src/f5tech/Tester.java" />
-        <option value="$PROJECT_DIR$/src/f5tech/q4.java" />
-        <option value="$PROJECT_DIR$/src/f5tech/q3.java" />
-        <option value="$PROJECT_DIR$/src/coderrrr.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java" />
-        <option value="$PROJECT_DIR$/src/linkedlist.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/LCA.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/largestSmallerBST.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/houseRobber.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/kSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/LargestNumber.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/LCAbst.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/RemoveKDigits.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/wordDictionary.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone/integerToEnglishWords.java" />
-        <option value="$PROJECT_DIR$/src/snailOOD.java" />
-        <option value="$PROJECT_DIR$/src/LinkedIn/SumOfSubarray.java" />
-        <option value="$PROJECT_DIR$/src/Bintree.java" />
         <option value="$PROJECT_DIR$/src/linkedinOA/q1_1.java" />
         <option value="$PROJECT_DIR$/src/LinkedIn/Paritypermutation.java" />
         <option value="$PROJECT_DIR$/src/linkedinOA/q2_1.java" />
@@ -170,12 +339,43 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/drawBridgePhone2/topKoccurance.java" />
         <option value="$PROJECT_DIR$/src/drawBridgePhone2/jungleBook.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone2/binaryTreePath.java" />
         <option value="$PROJECT_DIR$/src/drawBridgePhone2/LFUCache.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone2/findMinRotatedArray.java" />
         <option value="$PROJECT_DIR$/src/drawBridgePhone2/mapIterate.java" />
         <option value="$PROJECT_DIR$/src/drawBridgePhone2/listAdd.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone2/binaryTreePath.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone1/LCAbst.java" />
+        <option value="$PROJECT_DIR$/src/drawBridgePhone2/missingNum.java" />
+        <option value="$PROJECT_DIR$/src/past/drawBridgePhone2/SerializeBT.java" />
+        <option value="$PROJECT_DIR$/src/syntaxTest/generic.java" />
+        <option value="$PROJECT_DIR$/src/treeTestCases.java" />
+        <option value="$PROJECT_DIR$/src/linkedin/deepParenthesesString.java" />
+        <option value="$PROJECT_DIR$/src/bloomberg/deepParenthesesString.java" />
+        <option value="$PROJECT_DIR$/src/bloomberg/chooseDestinationMakeSumMin.java" />
+        <option value="$PROJECT_DIR$/src/bloomberg/stockStoreSystem.java" />
+        <option value="$PROJECT_DIR$/src/syntaxTest/test.java" />
+        <option value="$PROJECT_DIR$/src/visaOA/DistinctPair.java" />
+        <option value="$PROJECT_DIR$/src/visaOA/climb.java" />
+        <option value="$PROJECT_DIR$/src/visaOA/mA.java" />
+        <option value="$PROJECT_DIR$/src/visaOA/MergeSring.java" />
+        <option value="$PROJECT_DIR$/src/visaOA/RemoveCho.java" />
+        <option value="$PROJECT_DIR$/src/visaOA/solution.java" />
+        <option value="$PROJECT_DIR$/src/visaOA/conSum.java" />
+        <option value="$PROJECT_DIR$/src/syntaxTest/overridePrivateMethod.java" />
+        <option value="$PROJECT_DIR$/src/syntaxTest/deadlock.java" />
+        <option value="$PROJECT_DIR$/src/pureStorage/CountPalindromes.java" />
+        <option value="$PROJECT_DIR$/src/pureStorage/binarySearch.java" />
+        <option value="$PROJECT_DIR$/src/pureStorage/LockAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/bloomberg/FiveTwoCards.java" />
+        <option value="$PROJECT_DIR$/src/bloomberg/subway.java" />
+        <option value="$PROJECT_DIR$/src/syntaxTest/finalVariable.java" />
+        <option value="$PROJECT_DIR$/src/bloomberg/matrixGoSumMax.java" />
+        <option value="$PROJECT_DIR$/src/pastOA/visaOA/workSchedule.java" />
+        <option value="$PROJECT_DIR$/src/bloomberg/FirstOccurCha.java" />
+        <option value="$PROJECT_DIR$/src/ReservoirSampling.java" />
+        <option value="$PROJECT_DIR$/src/sumOfOddFactor.java" />
+        <option value="$PROJECT_DIR$/src/sumOfFactor.java" />
         <option value="$PROJECT_DIR$/src/CodeReview.java" />
-        <option value="$PROJECT_DIR$/src/drawBridgePhone2/findMinRotatedArray.java" />
       </list>
     </option>
   </component>
@@ -192,8 +392,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1920" />
-    <option name="height" value="1032" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,7 +403,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,31 +420,19 @@
               <item name="Shuati" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shuati" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="drawBridgePhone2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shuati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shuati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GuideWire" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shuati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shuati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="bloomberg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538025444411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539401716323" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -266,11 +456,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.findMinRotatedArray">
-    <configuration name="CodeReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeReview" />
+  <component name="RunManager" selected="Application.sumOfFactor">
+    <configuration name="FirstOccurCha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bloomberg.FirstOccurCha" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bloomberg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -281,13 +477,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="binaryTreePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawBridgePhone2.binaryTreePath" />
+    <configuration name="finalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntaxTest.finalVariable" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="drawBridgePhone2.*" />
+          <option name="PATTERN" value="syntaxTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,13 +491,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findMinRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawBridgePhone2.findMinRotatedArray" />
+    <configuration name="matrixGoSumMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bloomberg.matrixGoSumMax" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="drawBridgePhone2.*" />
+          <option name="PATTERN" value="bloomberg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,30 +505,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawBridgePhone2.listAdd" />
+    <configuration name="sumOfFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumOfFactor" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="drawBridgePhone2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mapIterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawBridgePhone2.mapIterate" />
+    <configuration name="sumOfOddFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumOfOddFactor" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="drawBridgePhone2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -352,19 +536,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.mapIterate" />
-      <item itemvalue="Application.binaryTreePath" />
-      <item itemvalue="Application.CodeReview" />
-      <item itemvalue="Application.listAdd" />
-      <item itemvalue="Application.findMinRotatedArray" />
+      <item itemvalue="Application.finalVariable" />
+      <item itemvalue="Application.matrixGoSumMax" />
+      <item itemvalue="Application.FirstOccurCha" />
+      <item itemvalue="Application.sumOfFactor" />
+      <item itemvalue="Application.sumOfOddFactor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.findMinRotatedArray" />
-        <item itemvalue="Application.CodeReview" />
-        <item itemvalue="Application.listAdd" />
-        <item itemvalue="Application.mapIterate" />
-        <item itemvalue="Application.binaryTreePath" />
+        <item itemvalue="Application.sumOfFactor" />
+        <item itemvalue="Application.sumOfOddFactor" />
+        <item itemvalue="Application.FirstOccurCha" />
+        <item itemvalue="Application.matrixGoSumMax" />
+        <item itemvalue="Application.finalVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -439,12 +623,21 @@
       <workItem from="1537802785771" duration="6064000" />
       <workItem from="1537837383055" duration="140000" />
       <workItem from="1537884672292" duration="11792000" />
-      <workItem from="1537986995928" duration="10646000" />
+      <workItem from="1537986995928" duration="11647000" />
+      <workItem from="1538060410526" duration="9892000" />
+      <workItem from="1538095492981" duration="691000" />
+      <workItem from="1538173729404" duration="9861000" />
+      <workItem from="1538259175745" duration="8392000" />
+      <workItem from="1538413634638" duration="22764000" />
+      <workItem from="1539035165155" duration="2835000" />
+      <workItem from="1539105873855" duration="8192000" />
+      <workItem from="1539301688880" duration="2585000" />
+      <workItem from="1539315521953" duration="4102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305881000" />
+    <option name="totallyTimeSpent" value="376196000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,7 +652,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610388" visible="true" weight="0.23157895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610388" visible="true" weight="0.23805667" />
       <window_info id="Structure" order="1" sideWeight="0.5038961" side_tool="true" weight="0.10850202" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -468,7 +661,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008881" side_tool="true" weight="0.47206476" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3321492" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1758437" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3321492" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5168739" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,7 +682,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3288364" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610388" visible="true" weight="0.3125506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610388" visible="true" weight="0.1902834" />
       <window_info id="Structure" order="1" sideWeight="0.5038961" side_tool="true" weight="0.10850202" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,8 +691,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008881" side_tool="true" weight="0.47206476" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3321492" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28710726" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5178765" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3321492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5168739" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
@@ -529,7 +722,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/goldman/allot.java</url>
+          <url>file://$PROJECT_DIR$/src/pastOA/goldman/allot.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="5" />
@@ -542,326 +735,339 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/f5tech/q3.java">
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/mapIterate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        <state relative-caret-position="223">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/f5tech/q2.java">
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/jungleBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="911">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/f5tech/q4.java">
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/LFUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        <state relative-caret-position="151">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/f5tech/q5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" selection-start-line="6" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/goldman/allot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="56" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/goldman/reverseCal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderrrr.java" />
-    <entry file="file://$PROJECT_DIR$/src/goldman/csvFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestConsecutiveSequence.java" />
-    <entry file="file://$PROJECT_DIR$/src/designPattern.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseNodesinkGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1055">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone.java" />
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/integerToEnglishWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/houseRobber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/RemoveKDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/wordDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/LCA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/LCAbst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-start-column="2" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/largestSmallerBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lilunke/class16/parkingLot.java">
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/sizeOfMaxIsland.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPattern/CounterStrike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GuideWire/snailOOD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yuyang/BinTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/drawBridge/sortBySetBitCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/permutation.java" />
-    <entry file="file://$PROJECT_DIR$/src/linkedinOA/q1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedinOA/q1_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GuideWire/GuideWireOA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedinOA/Paritypermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedinOA/SumOfSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bintree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="276" column="48" selection-start-line="276" selection-start-column="48" selection-end-line="276" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/SerializeBT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/sizeOfMaxIsland.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1014">
           <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedinOA/q2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedinOA/q2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2.java" />
-    <entry file="file://$PROJECT_DIR$/src/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/horseRacing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/jungleBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/topKoccurance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/LargestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/mergeKLists.java">
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone1/LargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <caret line="21" column="41" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="21" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone1/kSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone1/LCA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone1/LCAbst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone1/RemoveKDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone1/integerToEnglishWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/listAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone1/kSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/LFUCache.java">
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/binaryTreePath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="228">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/SerializeBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/Bintree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="332" column="6" selection-start-line="332" selection-start-column="6" selection-end-line="332" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/missingNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/GuideWire/GuideWireOA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedlist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
+        <state relative-caret-position="684">
           <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/listAdd.java">
+    <entry file="file://$PROJECT_DIR$/src/syntaxTest/generic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkdein.java" />
+    <entry file="file://$PROJECT_DIR$/src/treeTestCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/syntaxTest/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/past/drawBridgePhone2/topKoccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visaOA/climb.java" />
+    <entry file="file://$PROJECT_DIR$/src/pastOA/visaOA/mA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/visaOA/MergeSring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/syntaxTest/overridePrivateMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/syntaxTest/deadlock.java" />
+    <entry file="file://$PROJECT_DIR$/src/pastOA/visaOA/RemoveCho.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/visaOA/removeCho2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="91" selection-start-line="22" selection-start-column="91" selection-end-line="22" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/pureStorage/CountPalindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/pureStorage/binarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/pureStorage/LockAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/syntaxTest/finalVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/linkedinOA/q2_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/linkedinOA/SumOfSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/linkedinOA/q1_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/subString.java" />
+    <entry file="file://$PROJECT_DIR$/src/sumOfFactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sumOfOddFactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/visaOA/conSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/visaOA/DistinctPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pastOA/visaOA/workSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/mapIterate.java">
+    <entry file="file://$PROJECT_DIR$/src/lilunke/ReservoirSampling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bloomberg/FirstOccurCha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bloomberg/FiveTwoCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bloomberg/matrixGoSumMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bloomberg/stockStoreSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bloomberg/subway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bloomberg/chooseDestinationMakeSumMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bloomberg/deepParenthesesString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodeReview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/findMinRotatedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drawBridgePhone2/binaryTreePath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="228">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
         </state>
       </provider>
     </entry>

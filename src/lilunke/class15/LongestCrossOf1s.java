@@ -2,7 +2,7 @@ package lilunke.class15;
 
 public class LongestCrossOf1s {
     public int largest(int[][] matrix) {
-        // Write your solution here
+        // Write your removeCho2 here
         int row = matrix.length;
         int column = matrix[0].length;
         if (row == 0 || column == 0) {

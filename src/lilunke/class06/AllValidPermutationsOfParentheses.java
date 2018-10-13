@@ -5,7 +5,7 @@ import java.util.List;
 
 public class AllValidPermutationsOfParentheses {
     public List<String> validParentheses(int n) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         List<String> res = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
         validParentheses(n, res, 0, 0, sb, 0);

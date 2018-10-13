@@ -2,7 +2,7 @@ package lilunke.class02;
 
 public class LastOccurance {
     public int lastOccur(int[] array, int target) {
-        // Write your solution here
+        // Write your removeCho2 here
         if (array == null || array.length == 0) {
             return -1;
         }

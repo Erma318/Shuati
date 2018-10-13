@@ -33,7 +33,7 @@ public class ReverseLinkedList {
      }
 
     public ListNode reverse(ListNode head) {
-        // write your solution here
+        // write your removeCho2 here
         if (head == null || head.next == null) {
             return head;
         }

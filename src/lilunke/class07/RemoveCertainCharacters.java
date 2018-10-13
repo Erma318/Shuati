@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class RemoveCertainCharacters {
     public String remove(String input, String t) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         char[] myChar = input.toCharArray();
         Set<Character> remove = toSet(t);
         int slow = 0;

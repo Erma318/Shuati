@@ -4,7 +4,7 @@ import java.util.*;
 
 public class TopKFrequentWords {
     public String[] topKFrequent(String[] combo, int k) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         if (combo.length == 0) {
             return new String[0];
         }
@@ -58,7 +58,7 @@ public class TopKFrequentWords {
 
 //    public class Solution {
 //        public String[] topKFrequent(String[] combo, int k) {
-//            // Write your solution here.
+//            // Write your removeCho2 here.
 //            if (combo.length == 0) {
 //                return new String[0]
 //            }

@@ -2,7 +2,7 @@ package lilunke.class07;
 
 public class RemoveAdjacentRepeatedCharactersI {
     public String deDup(String input) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         if (input == null) {
             return null;
         }

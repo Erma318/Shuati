@@ -22,7 +22,7 @@ public class KthSmallestNumberInSortedMatrix {
         }
     }
     public int kthSmallest(int[][] matrix, int k) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         int rows = matrix.length;
         int columns = matrix[0].length;
         PriorityQueue<Node> minQueue = new PriorityQueue<Node>(k, new Comparator<Node>() {

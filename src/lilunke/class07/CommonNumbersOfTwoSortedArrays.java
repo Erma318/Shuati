@@ -6,7 +6,7 @@ import java.util.List;
 
 public class CommonNumbersOfTwoSortedArrays {
     public List<Integer> common(List<Integer> A, List<Integer> B) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         List<Integer> res = new ArrayList<>();
         int i = 0;
         int j = 0;

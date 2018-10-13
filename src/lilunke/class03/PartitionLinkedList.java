@@ -39,7 +39,7 @@ public class PartitionLinkedList {
         if (head == null) {
             return null;
         }
-        // write your solution here
+        // write your removeCho2 here
         ListNode smallHead = new ListNode(-1);
         ListNode largeHead = new ListNode(-1);
         ListNode small = smallHead;

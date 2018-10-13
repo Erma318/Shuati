@@ -8,7 +8,7 @@ public class ApowerB {
         System.out.println(here.power(a, b));
     }
     public long power(int a, int b) {
-        // Write your solution here
+        // Write your removeCho2 here
         if (b == 0) {
             return 1;
         }

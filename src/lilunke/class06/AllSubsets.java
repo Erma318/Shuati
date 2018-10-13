@@ -6,7 +6,7 @@ import java.util.List;
 
 public class AllSubsets {
     public List<String> subSets(String set) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         List<String> res = new ArrayList<>();
         if (set == null) {
             return res;

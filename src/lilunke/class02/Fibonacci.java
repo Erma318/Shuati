@@ -22,7 +22,7 @@ public class Fibonacci {
 
 
 //    public long fibonacci(int K) {
-//        // Write your solution here
+//        // Write your removeCho2 here
 //        if (K < 0) {
 //            return 0;
 //        }

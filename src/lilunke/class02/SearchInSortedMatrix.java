@@ -12,7 +12,7 @@ public class SearchInSortedMatrix {
         if (matrix.length == 0 || matrix[0].length == 0) {
             return new int[] {-1, -1};
         }
-        // Write your solution here.
+        // Write your removeCho2 here.
         int i = 0;
         int j = matrix[0].length - 1;
         while (j >= 0 && i <= matrix.length -1) {

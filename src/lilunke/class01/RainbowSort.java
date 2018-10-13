@@ -10,7 +10,7 @@ public class RainbowSort {
     }
 
     public int[] rainbowSort(int[] array) {
-        // Write your solution here.
+        // Write your removeCho2 here.
         int i = 0;
         int j = 0;
         int k = array.length - 1;

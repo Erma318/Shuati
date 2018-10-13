@@ -9,7 +9,7 @@ public class QuickSort2 {
         System.out.println(Arrays.toString(here.quickSort(array)));
     }
     public int[] quickSort(int[] array) {
-        // Write your solution here
+        // Write your removeCho2 here
         if(array == null || array.length == 0) {
             return array;
         }
