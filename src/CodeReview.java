@@ -4,44 +4,40 @@ import java.util.*;
 
 
 public class CodeReview {
+    public int combinationSum4(int[] nums, int target) {
+        List<List<Integer>> res = new LinkedList<>();
+        List<Integer> temp = new LinkedList<>();
+        helper(nums, target, res, temp);
+        return res.size();
+    }
 
-
-     public class Interval {
-            int start;
-         int end;
-            Interval() { start = 0; end = 0; }
-         Interval(int s, int e) { start = s; end = e; }
-     }
-
-    public List<Interval> merge(List<Interval> intervals) {
-        if (intervals == null || intervals.size() == 0) return intervals;
-        Comparator com = new Comparator<Interval>() {
-            @Override
-            public int compare(Interval a, Interval b) {
-                if (a.start > b.start)
-                    return 1;
-                else if (a.start == b.start)
-                    return 0;
-                else
-                    return -1;
-            }
-        };
-        Collections.sort(intervals, com);
-        List<Interval> res = new LinkedList<>();
-        int prevS = intervals.get(0).start;
-        int prevE = intervals.get(0).end;
-        for (int i = 1; i < intervals.size(); i++) {
-            if (intervals.get(i).start <= prevE) {
-                if (intervals.get(i).end > prevE) {
-                    prevE = intervals.get(i).end;
-                }
-            } else {
-                res.add(new Interval(prevS, prevE));
-                prevS = intervals.get(i).start;
-                prevE = intervals.get(i).end;
-            }
+    private void helper(int[] nums, int target, List<List<Integer>> res, List<Integer> temp) {
+        if (target == 0) {
+            res.add(new ArrayList(temp));
+            return;
         }
-        res.add(new Interval(prevS, prevE));
-        return res;
+        if (target < 0) {
+            return;
+        }
+        for (int x : nums) {
+            temp.add(x);
+            helper(nums, target - x, res, temp);
+            temp.remove(temp.size() - 1);
+        }
+    }
+
+    static class GraphNode {
+        int key;
+        List<GraphNode> neighbors;
+        GraphNode(int key) {
+            this.key = key;
+            this.neighbors = new ArrayList<GraphNode>();
+        }
+    }
+    public static void main(String[] args) {
+        int[] nums = {1,2,3};
+        int target = 4;
+        CodeReview here = new CodeReview();
+        System.out.println(here.combinationSum4(nums, target));
     }
 }

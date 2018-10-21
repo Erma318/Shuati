@@ -3,14 +3,17 @@ package bnyOA;
 import javax.net.ssl.HttpsURLConnection;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
 import java.net.URL;
 import org.json.JSONObject;
+import com.google.gson.*;
 public class callAPI {
-    public int findTimes(String input) throws Exception{
+    public int findTimes(String topic) throws Exception{
+        final Gson gson = new Gson();
         String url = "https://en.wikipedia.org/w/api.php?action=parse&section=0&prop=text&format=json&page=[topic]";
-        url = url.replace("[topic]", input);
+        url = url.replace("[topic]", topic);
         URL obj = new URL(url);
-        HttpsURLConnection con = (HttpsURLConnection) obj.openConnection();
+        HttpURLConnection con = (HttpURLConnection) obj.openConnection();
         con.setRequestMethod("GET");
         BufferedReader in = new BufferedReader((new InputStreamReader(con.getInputStream())));
         String inputLine;
@@ -20,14 +23,16 @@ public class callAPI {
         }
         in.close();
         System.out.println(response.toString());
-        JSONObject myResponse = new JSONObject(response.toString());
-        JSONObject content = myResponse.getJSONObject("parse");
-        JSONObject content2 = content.getJSONObject("text");
-        String countString = content2.getString("*");
+        //JsonObject myResponse = gson.fromJson(response.toString(), String.class);
+        //JSONObject myResponse = new JSONObject(response.toString());
+        JsonObject myResponse = new JsonParser().parse(response.toString()).getAsJsonObject();
+        JsonObject content = myResponse.get("parse").getAsJsonObject();
+        JsonObject content2 = content.get("text").getAsJsonObject();;
+        String countString = content2.get("*").getAsString();
         int count = 0;
         for (int i = 0; i < countString.length(); i++) {
-            if (countString.charAt(i) == input.charAt(0)) {
-                if (countString.substring(i, i + input.length()).equals(input)) {
+            if (countString.charAt(i) == topic.charAt(0)) {
+                if (countString.substring(i, i + topic.length()).equals(topic)) {
                     count++;
                 }
             }
