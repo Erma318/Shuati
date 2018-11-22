@@ -6,37 +6,52 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
 
-public class CodeReview {
-    public static int schedule(int[] sql, int cool) {
-        Queue<Integer> q = new LinkedList<>();
-        Set<Integer> set = new HashSet<>();
-        int rest = 0;
-        for(int i = 0; i < sql.length; i++){
-            if(q.size() > cool + 1){
-                set.remove(q.poll());
+class CodeReview {
+    public void sort(LinkedList<Integer> s1) {
+        if (s1.isEmpty()) return;
+        LinkedList<Integer> s2 = new LinkedList<Integer>();
+        // Write your solution here.
+        int min = Integer.MAX_VALUE;
+        int count = 1;
+        while (!s1.isEmpty()) {
+            while (!s1.isEmpty()) {
+                int cur = s1.pollFirst();
+                if (cur < min) {
+                    min = cur;
+                    count = 1;
+                } else if (cur == min) {
+                    count++;
+                }
+                s2.offerFirst(cur);
             }
-            if(!set.contains(sql[i])){
-                q.offer(sql[i]);//1 2
-                set.add(sql[i]);//1 2
-            }
-            else{
-                while(!q.isEmpty()){
-                    int s = q.poll();//1
-                    set.remove(s);
-                    if(s == sql[i]){
-                        rest += cool - q.size();//1
-                        q.offer(s);
-                        set.add(s);
-                        break;
-                    }
+            while (!s2.isEmpty() && s2.peekFirst() >= min) {
+                int cur = s2.pollFirst();
+                if (cur != min) {
+                    s1.offerFirst(cur);
                 }
             }
+            for (int i = 0; i < count; i++) {
+                s2.offerFirst(min);
+            }
+            if (s1.isEmpty()) {
+                break;
+            } else {
+                min = Integer.MAX_VALUE;
+            }
         }
-        return rest + sql.length;
+        while (!s2.isEmpty()) {
+            s1.offerFirst(s2.pollFirst());
+        }
     }
-    //Scheduler：1, 2, _, 1, _, _, 1, 3, 4，
+
     public static void main(String[] args) {
-        int[] sql = new int[]{1, 2, 1, 1, 3, 1, 4};
-        System.out.print(schedule(sql,2));
+        LinkedList<Integer> s1 = new LinkedList<>();
+        s1.offerFirst(3);
+        s1.offerFirst(1);
+        s1.offerFirst(2);
+        s1.offerFirst(4);
+        CodeReview here = new CodeReview();
+        here.sort(s1);
+        System.out.println(s1);
     }
 }

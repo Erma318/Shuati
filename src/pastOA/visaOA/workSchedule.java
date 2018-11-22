@@ -32,5 +32,13 @@ public class workSchedule {
             backtracking(day_hours, rest, res, pattern, idx + 1, buffer + pattern.substring(idx, idx + 1));
         }
     }
+
+    public static void main(String[] args) {
+        String pattern = "???8???";
+        int work_hours = 56;
+        int day_hours = 8;
+
+        System.out.println();
+    }
 }
 
