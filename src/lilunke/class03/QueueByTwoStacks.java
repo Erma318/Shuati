@@ -6,7 +6,7 @@ import java.util.Stack;
 public class QueueByTwoStacks {
 //    private Stack<Integer> in;
 //    private Stack<Integer> out;
-//    public void Solution() {
+//    public void Stripe.Solution() {
 //        // Write your removeCho2 here.
 //        in = new Stack<Integer>();
 //        out = new Stack<Integer>();
@@ -51,7 +51,7 @@ public class QueueByTwoStacks {
 //    }
 //    private LinkedList<Integer> in;
 //    private LinkedList<Integer> out;
-//    public void Solution() {
+//    public void Stripe.Solution() {
 //        // Write your removeCho2 here.
 //        in = new LinkedList<Integer>();
 //        out = new LinkedList<Integer>();

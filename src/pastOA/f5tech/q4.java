@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class q4 {
     static boolean containsSameLetters(String word1, String word2) {
-        //Solution:
+        //Stripe.Solution:
         //1. use a hashmap to count the times of each char occurs in word1
         //2. go through each character in word2, if it is not in word1, ignore it.
         //If it is, decrease the time of occurrence by 1 in map

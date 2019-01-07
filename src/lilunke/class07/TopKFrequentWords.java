@@ -56,7 +56,7 @@ public class TopKFrequentWords {
         System.out.println(Arrays.toString(res));
     }
 
-//    public class Solution {
+//    public class Stripe.Solution {
 //        public String[] topKFrequent(String[] combo, int k) {
 //            // Write your removeCho2 here.
 //            if (combo.length == 0) {

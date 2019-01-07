@@ -8,7 +8,8 @@ import java.util.Stack;
 public class BasicCalculatorIII772 {
     public static void main(String[] Ags) {
         BasicCalculatorIII772 sol = new BasicCalculatorIII772();
-        int result = sol.calculateIII2Stack("2-(12-(5*2-3))/2");
+        //int result = sol.calculateIII2Stack("100000000/1/2/3/4/5/6/7/8/9/10");
+        int result = sol.calculateIII2Stack("2*(5+5*2)/3+(6/2+8)");
         System.out.println(result);
     }
 
