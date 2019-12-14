@@ -20,10 +20,10 @@ public class findLargestSmall {
             if (cur.value >= target) {
                 cur = cur.left;
             } else {
-                if ((target - cur.value) < min_diff) {
+                //if ((target - cur.value) < min_diff) {
                     min_diff = target - cur.value;
                     res = cur.value;
-                }
+                //}
                 cur = cur.right;
             }
         }
@@ -38,7 +38,7 @@ public class findLargestSmall {
         Node twenty = new Node(20);
         ten.left = five; ten.right = fifteen;
         five.left = two;
-        //fifteen.left = twelve;
+        fifteen.left = twelve;
         fifteen.right = twenty;
         findLargestSmall here = new findLargestSmall();
         System.out.println(here.find(ten, 14));
