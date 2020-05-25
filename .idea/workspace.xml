@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99519120-b548-4e65-907c-b1394c3347c1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/META-INF/Shuati.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/lilunke/class16/parkingLot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/lilunke/class16/parkingLot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lilunke/class16/parkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lilunke/class16/parkingLot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +103,7 @@
       <recent name="C:\Users\fengy\IdeaProjects\Shuati\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CodeReview">
+  <component name="RunManager" selected="Application.test">
     <configuration name="CodeReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeReview" />
       <module name="Shuati" />
@@ -136,36 +140,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KminusNdistinctCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmazonOA.KminusNdistinctCharacters" />
-      <module name="Shuati" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AmazonOA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findLargestSmall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lilunke.class23.findLargestSmall" />
+    <configuration name="parkingLot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lilunke.class16.parkingLot" />
       <module name="Shuati" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lilunke.class23.*" />
+          <option name="PATTERN" value="lilunke.class16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Shuati" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,18 +186,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CodeReview" />
-      <item itemvalue="Application.KminusNdistinctCharacters" />
-      <item itemvalue="Application.findLargestSmall" />
       <item itemvalue="Application.GuideWireOA" />
       <item itemvalue="Application.FindTreeBottom" />
+      <item itemvalue="Application.parkingLot" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.parkingLot" />
         <item itemvalue="Application.CodeReview" />
         <item itemvalue="Application.FindTreeBottom" />
         <item itemvalue="Application.GuideWireOA" />
-        <item itemvalue="Application.findLargestSmall" />
-        <item itemvalue="Application.KminusNdistinctCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -352,6 +350,15 @@
       <workItem from="1576291291501" duration="257000" />
       <workItem from="1580700007791" duration="303000" />
       <workItem from="1581210445412" duration="33000" />
+      <workItem from="1581384291504" duration="3471000" />
+      <workItem from="1581514000997" duration="1111000" />
+      <workItem from="1581549696110" duration="2050000" />
+      <workItem from="1581796440832" duration="608000" />
+      <workItem from="1582770809809" duration="848000" />
+      <workItem from="1585958488268" duration="1302000" />
+      <workItem from="1588987749445" duration="958000" />
+      <workItem from="1589417174395" duration="54000" />
+      <workItem from="1589417375441" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -368,10 +375,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580700050902">
+    <state x="321" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589417218454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580700050902" />
+    <state x="321" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1589417218454" />
+    <state width="1237" height="222" key="GridCell.Tab.0.bottom" timestamp="1582996178210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1582996178210" />
+    <state width="1237" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581564971744" />
+    <state width="1237" height="222" key="GridCell.Tab.0.center" timestamp="1582996178210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.center/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1582996178210" />
+    <state width="1237" height="222" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581564971744" />
+    <state width="1237" height="222" key="GridCell.Tab.0.left" timestamp="1582996178210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.left/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1582996178210" />
+    <state width="1237" height="222" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581564971744" />
+    <state width="1237" height="222" key="GridCell.Tab.0.right" timestamp="1582996178210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.right/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1582996178210" />
+    <state width="1237" height="222" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581564971744" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1589417203982">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1589417203982" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

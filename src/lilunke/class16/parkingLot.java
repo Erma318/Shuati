@@ -153,8 +153,8 @@ public class parkingLot {
                 assert hasSpot;
                 assert lot.park(v);
             } else {
-                assert !hasSpot;
-                assert !lot.park(v);
+                assert hasSpot;
+                assert lot.park(v);
             }
         }
         assert list.size() == 50;
